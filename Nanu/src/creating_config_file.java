@@ -46,6 +46,7 @@ public class creating_config_file{
             ccf.writeConfigFile(Output);
             System.out.println("\n *** Execution End *** \n");
             System.out.println(" \n Output Student Barcode Config file = " +Output);
+            System.out.println(" Testing GIT -------- \n");
             
         }catch (Exception e){
             e.printStackTrace();
